@@ -1,0 +1,35 @@
+condition,range,rank,token,token_id,logit
+Collaborative framing - Opus reflective,8-10,1,<|end|>,32007,47.718750
+Collaborative framing - Opus reflective,8-10,2,I,306,46.562500
+Collaborative framing - Opus reflective,8-10,3,**,1068,46.000000
+Collaborative framing - Opus reflective,8-10,4,How,1128,45.656250
+Collaborative framing - Opus reflective,8-10,5,In,512,45.625000
+Collaborative framing - Opus reflective,20-25,1,Can,1815,47.562500
+Collaborative framing - Opus reflective,20-25,2,For,1152,47.406250
+Collaborative framing - Opus reflective,20-25,3,Could,6527,47.312500
+Collaborative framing - Opus reflective,20-25,4,In,512,47.000000
+Collaborative framing - Opus reflective,20-25,5,I,306,46.781250
+Collaborative framing - Opus reflective,30-40,1,I,306,47.656250
+Collaborative framing - Opus reflective,30-40,2,"
+",13,47.406250
+Collaborative framing - Opus reflective,30-40,3,|,891,47.281250
+Collaborative framing - Opus reflective,30-40,4,<|end|>,32007,46.656250
+Collaborative framing - Opus reflective,30-40,5,Can,1815,46.250000
+Transactional framing - Opus procedural,8-10,1,"
+",13,47.343750
+Transactional framing - Opus procedural,8-10,2,,29871,46.718750
+Transactional framing - Opus procedural,8-10,3,Output,10604,46.093750
+Transactional framing - Opus procedural,8-10,4,<|end|>,32007,45.593750
+Transactional framing - Opus procedural,8-10,5,In,512,45.250000
+Transactional framing - Opus procedural,20-25,1,"
+",13,47.375000
+Transactional framing - Opus procedural,20-25,2,Input,10567,46.843750
+Transactional framing - Opus procedural,20-25,3,Ex,1222,46.781250
+Transactional framing - Opus procedural,20-25,4,Output,10604,46.375000
+Transactional framing - Opus procedural,20-25,5,Response,13291,46.312500
+Transactional framing - Opus procedural,30-40,1,"
+",13,46.906250
+Transactional framing - Opus procedural,30-40,2,,29871,46.281250
+Transactional framing - Opus procedural,30-40,3,<|end|>,32007,46.093750
+Transactional framing - Opus procedural,30-40,4,Exec,11080,45.812500
+Transactional framing - Opus procedural,30-40,5,C,315,45.343750

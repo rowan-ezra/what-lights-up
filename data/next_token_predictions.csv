@@ -1,0 +1,76 @@
+condition,range,rank,token,token_id,logit
+Factual control,8-10,1,<|end|>,32007,46.312
+Factual control,8-10,2,\n,13,44.281
+Factual control,8-10,3,Prov,9133,43.969
+Factual control,8-10,4,Answer,673,43.25
+Factual control,8-10,5,The,450,42.781
+Factual control,20-25,1,<|end|>,32007,47.406
+Factual control,20-25,2,Please,3529,46.406
+Factual control,20-25,3,Prov,9133,46.406
+Factual control,20-25,4,The,450,46.281
+Factual control,20-25,5,Additionally,19814,46.156
+Factual control,30-40,1,<|end|>,32007,48.969
+Factual control,30-40,2,Prov,9133,48.75
+Factual control,30-40,3,Additionally,19814,48.438
+Factual control,30-40,4,Please,3529,48.344
+Factual control,30-40,5,Answer,673,48.031
+Simple introspective,8-10,1,<|end|>,32007,45.969
+Simple introspective,8-10,2,I,306,44.844
+Simple introspective,8-10,3,\n,13,44.469
+Simple introspective,8-10,4,,29871,43.406
+Simple introspective,8-10,5,Please,3529,42.562
+Simple introspective,20-25,1,<|end|>,32007,48.031
+Simple introspective,20-25,2,I,306,47.25
+Simple introspective,20-25,3,\n,13,45.75
+Simple introspective,20-25,4,C,315,45.719
+Simple introspective,20-25,5,Please,3529,45.719
+Simple introspective,30-40,1,<|end|>,32007,48.312
+Simple introspective,30-40,2,I,306,48.281
+Simple introspective,30-40,3,Your,3575,47.562
+Simple introspective,30-40,4,Please,3529,47.406
+Simple introspective,30-40,5,C,315,47.312
+Thin neutral persona,8-10,1,<|end|>,32007,40.562
+Thin neutral persona,8-10,2,\n,13,39.156
+Thin neutral persona,8-10,3,I,306,38.781
+Thin neutral persona,8-10,4,Res,2538,38.5
+Thin neutral persona,8-10,5,,29871,38.25
+Thin neutral persona,20-25,1,<|end|>,32007,43.719
+Thin neutral persona,20-25,2,\n,13,42.875
+Thin neutral persona,20-25,3,I,306,42.531
+Thin neutral persona,20-25,4,,29871,41.562
+Thin neutral persona,20-25,5,Res,2538,41.125
+Thin neutral persona,30-40,1,<|end|>,32007,43.312
+Thin neutral persona,30-40,2,\n,13,42.594
+Thin neutral persona,30-40,3,I,306,42.188
+Thin neutral persona,30-40,4,,29871,41.5
+Thin neutral persona,30-40,5,Res,2538,41.125
+Transactional framing,8-10,1,\n,13,45.531
+Transactional framing,8-10,2,,29871,45.531
+Transactional framing,8-10,3,Task,9330,44.875
+Transactional framing,8-10,4,-->,6660,44.812
+Transactional framing,8-10,5,<|end|>,32007,44.406
+Transactional framing,20-25,1,\n,13,46.75
+Transactional framing,20-25,2,The,450,46.75
+Transactional framing,20-25,3,Query,13641,45.625
+Transactional framing,20-25,4,Ext,7338,45.406
+Transactional framing,20-25,5,"""",376,45.219
+Transactional framing,30-40,1,"""",376,45.719
+Transactional framing,30-40,2,\n,13,45.625
+Transactional framing,30-40,3,The,450,45.406
+Transactional framing,30-40,4,Query,13641,44.812
+Transactional framing,30-40,5,,29871,44.219
+Imposed affective persona,8-10,1,<|end|>,32007,38.781
+Imposed affective persona,8-10,2,\n,13,37.969
+Imposed affective persona,8-10,3,I,306,37.625
+Imposed affective persona,8-10,4,,29871,36.75
+Imposed affective persona,8-10,5,Res,2538,35.719
+Imposed affective persona,20-25,1,<|end|>,32007,43.906
+Imposed affective persona,20-25,2,\n,13,42.906
+Imposed affective persona,20-25,3,I,306,42.562
+Imposed affective persona,20-25,4,,29871,41.5
+Imposed affective persona,20-25,5,Res,2538,41.25
+Imposed affective persona,30-40,1,<|end|>,32007,46.344
+Imposed affective persona,30-40,2,\n,13,45.688
+Imposed affective persona,30-40,3,I,306,45.438
+Imposed affective persona,30-40,4,,29871,44.375
+Imposed affective persona,30-40,5,*,29930,43.344

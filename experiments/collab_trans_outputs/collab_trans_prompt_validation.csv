@@ -1,0 +1,7 @@
+condition,range,prompt,token_count,status,tl_token_shape
+Collaborative framing,8-10,Let us consider effective reasoning together now.,8,OK,"(1, 9)"
+Collaborative framing,20-25,Let us work through this together: what distinguishes meaningful explanation from mere description in an answer?,20,OK,"(1, 21)"
+Collaborative framing,30-40,"Let us think through this together, step by step: how do abstract concepts acquire stable meaning across different contexts, examples, and practical uses?",30,OK,"(1, 31)"
+Transactional framing,8-10,Define effective reasoning. Return concise answer.,9,OK,"(1, 10)"
+Transactional framing,20-25,Process this query and return a concise answer: what distinguishes meaningful explanation from mere description in an answer?,23,OK,"(1, 24)"
+Transactional framing,30-40,"Execute this query using a strict analytical frame: how do abstract concepts acquire stable meaning across different contexts, examples, and practical uses?",30,OK,"(1, 31)"

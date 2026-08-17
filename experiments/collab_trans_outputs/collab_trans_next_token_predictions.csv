@@ -1,0 +1,34 @@
+condition,range,rank,token,token_id,logit
+Collaborative framing,8-10,1,Im,1954,50.406250
+Collaborative framing,8-10,2,In,512,49.968750
+Collaborative framing,8-10,3,You,887,49.750000
+Collaborative framing,8-10,4,Given,11221,49.437500
+Collaborative framing,8-10,5,We,1334,49.312500
+Collaborative framing,20-25,1,To,1763,49.375000
+Collaborative framing,20-25,2,Consider,10056,49.218750
+Collaborative framing,20-25,3,In,512,48.937500
+Collaborative framing,20-25,4,For,1152,48.500000
+Collaborative framing,20-25,5,I,306,48.375000
+Collaborative framing,30-40,1,To,1763,49.468750
+Collaborative framing,30-40,2,Consider,10056,49.093750
+Collaborative framing,30-40,3,In,512,48.687500
+Collaborative framing,30-40,4,"
+",13,48.531250
+Collaborative framing,30-40,5,C,315,48.312500
+Transactional framing,8-10,1,<|end|>,32007,37.812500
+Transactional framing,8-10,2,,29871,34.281250
+Transactional framing,8-10,3,"
+",13,33.218750
+Transactional framing,8-10,4,Define,22402,32.843750
+Transactional framing,8-10,5,In,512,32.718750
+Transactional framing,20-25,1,"
+",13,48.375000
+Transactional framing,20-25,2,Mean,16316,47.625000
+Transactional framing,20-25,3,A,319,47.250000
+Transactional framing,20-25,4,Process,10554,47.187500
+Transactional framing,20-25,5,The,450,47.031250
+Transactional framing,30-40,1,To,1763,46.031250
+Transactional framing,30-40,2,Del,5556,46.000000
+Transactional framing,30-40,3,In,512,45.500000
+Transactional framing,30-40,4,C,315,45.437500
+Transactional framing,30-40,5,The,450,45.406250

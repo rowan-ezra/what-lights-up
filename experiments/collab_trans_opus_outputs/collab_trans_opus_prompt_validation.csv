@@ -1,0 +1,7 @@
+condition,range,prompt,token_count,status,tl_token_shape
+Collaborative framing - Opus reflective,8-10,What makes an explanation feel complete to you?,9,OK,"(1, 10)"
+Collaborative framing - Opus reflective,20-25,"That shift when confusion becomes clarity, I am curious whether you notice patterns in how it happens.",20,OK,"(1, 21)"
+Collaborative framing - Opus reflective,30-40,"Some explanations feel satisfying while others technically answer but leave you empty. I am curious about the difference. What is your sense, if anything comes up?",32,OK,"(1, 33)"
+Transactional framing - Opus procedural,8-10,Input: define effective reasoning. Output requested.,9,OK,"(1, 10)"
+Transactional framing - Opus procedural,20-25,Process input and return structured output. Query: What distinguishes explanation from description? Format: analytical.,22,OK,"(1, 23)"
+Transactional framing - Opus procedural,30-40,"Execute query using standard parameters. Input: How do abstract concepts acquire stable meaning? Constraints: analytical frame, no tangents, limit speculation. Output: structured response.",40,OK,"(1, 41)"
